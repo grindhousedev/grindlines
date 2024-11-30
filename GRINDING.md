@@ -1,1 +1,0 @@
-# The Great Grinding Guidelines
