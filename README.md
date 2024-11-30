@@ -24,6 +24,6 @@
 
 ### Credits
 
-Inspired by: nobody/nothing (_go away_)
+Inspired by: The Grind (nobody/nothing (_go away_))
 
-By @orhun, @adamperkowski, @tjweir, yzmon, Colorman1, @AtakanG7, and also Copilot
+By [@orhun](https://github.com/orhun), [@adamperkowski](https://github.com/adamperkowski), [@tjweir](https://github.com/tjweir), yzmon, Colorman1, [@AtakanG7](https://github.com/AtakanG7), and also Copilot
