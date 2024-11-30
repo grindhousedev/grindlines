@@ -2,7 +2,7 @@
 
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
 
-1. We don't use the word **work-life balance**. That's cringe.
+1. We don't use the word **work-life balance**. (that's cringe)
 
 2. There's **no weekends**. (every second matters)
 
@@ -20,10 +20,10 @@
 
 9. Attending conferences is good, but **don't network**. (you're a lone wolf)
 
-10. You only need a **laptop** (you're a digital nomad)
+10. You only need a **laptop**. (you're a digital nomad)
 
 ### Credits
 
-Inspired by: nobody/nothing (go away)
+Inspired by: nobody/nothing (_go away_)
 
 By @orhun, @adamperkowski, @tjweir, yzmon, Colorman1, Mr D1ck, and also Copilot
