@@ -26,4 +26,4 @@
 
 Inspired by: nobody/nothing (_go away_)
 
-By @orhun, @adamperkowski, @tjweir, yzmon, Colorman1, Mr D1ck, and also Copilot
+By @orhun, @adamperkowski, @tjweir, yzmon, Colorman1, @AtakanG7, and also Copilot
