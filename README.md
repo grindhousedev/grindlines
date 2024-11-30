@@ -1,5 +1,7 @@
 # The Great Grinding Guidelines 🫡
 
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
+
 1. We don't use the word **work-life balance**. That's cringe.
 
 2. There's **no weekends**. (every second matters)
