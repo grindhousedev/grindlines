@@ -24,10 +24,10 @@ May the Grind never end.
 
 10. You only need a **laptop**. (you're a digital nomad)
 
-11. **Grind** is the truth
+11. **Grind** is the truth. (never stop)
 
 ### Credits
 
-Inspired by: The Grind (nobody/nothing (_go away_))
+Inspired by: nobody/nothing (_go away_)
 
 By [@orhun](https://github.com/orhun), [@adamperkowski](https://github.com/adamperkowski), [@tjweir](https://github.com/tjweir), yzmon, Colorman1, [@AtakanG7](https://github.com/AtakanG7), and also Copilot
