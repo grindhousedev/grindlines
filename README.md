@@ -1,8 +1,8 @@
-# The Great Grinding Guidelines 🫡
+# The Great Grindlines 🫡
 
 May the Grind never end.
 
-[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/grindlines)
 
 1. We don't use the word **work-life balance**. (that's cringe)
 
