@@ -1,6 +1,6 @@
-# The Great Grindlines 🫡
+# The Great Grindlines™ 🫡
 
-May the Grind never end.
+May the Grind never end™
 
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/grindlines)
 
@@ -16,7 +16,7 @@ May the Grind never end.
 
 6. $100k is **not enough**. (you're poor)
 
-7. Don't think about life, just **grind**. (you're a machine)
+7. Don't think about life, just **Grind**™ . (you're a machine)
 
 8. Feelings are evil, **suppress** them. (you're a robot)
 
@@ -24,7 +24,7 @@ May the Grind never end.
 
 10. You only need a **laptop**. (you're a digital nomad)
 
-11. **Grind** is the truth. (never stop)
+11. **Grind**™ is the truth. (never stop)
 
 ### Credits
 
