@@ -1,19 +1,10 @@
 # Configuration for welcome - https://github.com/behaviorbot/welcome
 
-# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
-
-# Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thanks for opening your first issue at **The Grindhouse**! Make sure to keep grinding! 🫡
+  Thanks for opening your first issue at **The Grindhouse**™ ! Make sure to Keep Grinding™ ! 🫡
 
-# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
-
-# Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our Great Grinding Guidelines! 🫡
+  Thanks for opening this pull request! Please check out our Great Grinding Guidelines™ ! 🫡
 
-# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
-
-# Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  Congrats on grinding! 🫡
+  **May the Grind never end**™ ! 🫡
