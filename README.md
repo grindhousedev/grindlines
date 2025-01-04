@@ -1,6 +1,6 @@
 # The Great Grindlines™ 🫡
 
-May the Grind never end™
+May the Grind™ never end.
 
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/grindlines)
 
