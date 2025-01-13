@@ -31,3 +31,14 @@ May the Grind™ never end.
 Inspired by: nobody/nothing (_go away_)
 
 By [@orhun](https://github.com/orhun), [@adamperkowski](https://github.com/adamperkowski), [@tjweir](https://github.com/tjweir), yzmon, Colorman1, [@AtakanG7](https://github.com/AtakanG7), and also Copilot
+
+<details>
+  <summary>Important note</summary>
+
+The Grindlines™ are meant as satire, poking fun at the hustle culture that often glorifies unhealthy work habits. They're not intended to be taken seriously.
+
+We believe in the value of dedication and hard work, but we also recognize the importance of balance, mental health, and community. This project encourages mindful grinding — committing to your goals with awareness of the risks, such as burnout, isolation, and tunnel vision.
+
+Take care of yourself, connect with others, and remember that you're more than your Grind™. 💪
+
+</details>
